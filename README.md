@@ -1,8 +1,8 @@
-#HIST
+# HIST
 
 This program allows to count histogram of ascii symbols for files from the directory.
 
-###Init test files
+### Init test files
 
 If you want to create files to test the program, you can run it with the following arguments:
 ```bash
@@ -12,7 +12,7 @@ If you want to create files to test the program, you can run it with the followi
 In this case 10000 files will be created in directory ./examples. 
 Each file will contain 1000 random ascii symbols.
 
-###Count histogram ascii symbols from directory
+### Count histogram ascii symbols from directory
 
 If you want to count histogram, you should run the program with the following arguments:
 ```bash
