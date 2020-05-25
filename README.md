@@ -6,6 +6,8 @@ This program allows to count histogram of ascii symbols for files from the direc
 
 If you want to create files to test the program, you can run it with the following arguments:
 ```bash
+go build
+mkdir examples
 ./hist init --fc 10000 --sc 1000 --path ./examples
 ```
 
